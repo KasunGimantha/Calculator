@@ -1,2 +1,2 @@
 # Calculator
-Simple calculator in java
+Simple calculator for +,-,/,* in java
